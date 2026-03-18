@@ -1,0 +1,20 @@
+<group name="custom_rules">
+
+  <rule id="100001" level="10">
+    <if_sid>18107</if_sid>
+    <description>Brute force attack detected</description>
+    <mitre>T1110</mitre>
+  </rule>
+
+  <rule id="100002" level="8">
+    <if_sid>4624</if_sid>
+    <description>Successful login detected</description>
+    <mitre>T1078</mitre>
+  </rule>
+
+  <rule id="100003" level="12">
+    <if_sid>4672</if_sid>
+    <description>Privilege escalation detected</description>
+  </rule>
+
+</group>

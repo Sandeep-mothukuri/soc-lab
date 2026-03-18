@@ -1,0 +1,5 @@
+Event ID 4625 - Failed login attempt
+Event ID 4624 - Successful login
+Event ID 4740 - Account locked
+Event ID 4672 - Admin privileges assigned
+Event ID 4663 - File access attempt
