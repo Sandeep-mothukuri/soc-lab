@@ -1,0 +1,5 @@
+<rule id="100001" level="10">
+  <if_sid>18107</if_sid>
+  <description>Brute force attack detected</description>
+  <mitre>T1110</mitre>
+</rule>

@@ -1,0 +1,1 @@
+Sample log: Failed login attempt detected (Event ID 4625)

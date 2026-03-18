@@ -1,15 +1,19 @@
 # 🔐 SOC Analyst Home Lab
 
 ## Overview
-This project demonstrates a SOC environment using Wazuh, Kali Linux, and Windows.
+SOC lab using Wazuh SIEM, Windows logging, and Kali Linux attack simulation.
 
-## Tools Used
+## Architecture
 - Wazuh SIEM
-- ELK Stack
-- Sysmon
-- Kali Linux
+- Windows + Sysmon
+- Kali Linux attacker
 
-## Skills
-- SIEM deployment
-- Threat detection
-- Incident response
+## Detection Use Case
+- Brute force (Event ID 4625)
+
+## Project Structure
+- setup/
+- scripts/
+- logs/
+- reports/
+- detection-rules/
