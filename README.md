@@ -41,6 +41,17 @@ A brute-force attack was simulated using Hydra against a Windows 10 RDP service.
 
 \---
 
+## 🧰 Tools Used
+
+- Wazuh SIEM
+- Sysmon
+- Kali Linux
+- Hydra
+- Nmap
+- Windows Event Viewer
+
+\---
+
 ## 🐧 Install Wazuh SIEM
 
 Official Guide:
