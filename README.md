@@ -219,7 +219,7 @@ sudo systemctl restart wazuh-manager
 
 ### 🧠 SOC Architecture
 
-![Architecture](images/architecture/soc-architecture/Architecture.png)
+![Architecture](images/architecture/soc-architecture/architecture.png)
 ![Elastic Stack](images/architecture/soc-architecture/elastic-stack-integration.png)
 ![ELK Wazuh](images/architecture/soc-architecture/combining-elk-wazuh-hids-and-elastalert-for-optimal-performance.png)
 ![Wazuh Components](images/architecture/soc-architecture/wazuh-central-components.png)
