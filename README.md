@@ -241,9 +241,9 @@ sudo systemctl restart wazuh-manager
 ### ⚔️ Attack Simulation
 
 ![Nmap Result](images/attacks/nmap-scan/interpreting-scan-results.png)
-![Brute Force](images/attacks/nmap-scan/brute-force-attack.jpg)
-![Terminal Scan](images/attacks/nmap-scan/nmap-scan-terminal-kali.webp)
-![External Scan](images/attacks/nmap-scan/nmap-external-port-scan-result.webp)
+![Brute Force](images/attacks/nmap-scan/Brute-force attack.jpg)
+![Terminal Scan](images/attacks/nmap-scan/NMAP scan in the terminal of Kali.webp)
+![External Scan](images/attacks/nmap-scan/Nmap external port scan result.webp)
 
 ### 🪟 Sysmon Logs
 
