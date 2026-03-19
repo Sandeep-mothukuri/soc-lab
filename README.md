@@ -215,38 +215,27 @@ sudo systemctl restart wazuh-manager
 
 
 
-\## 📸 Lab Evidence
+## 📸 Lab Evidence
 
+### 🧠 SOC Architecture
 
+![Architecture](images/architecture/soc-architecture.png)
 
-\### 🧠 SOC Architecture
+### 📊 Wazuh Dashboard
 
-!\[Architecture](architecture/soc-architecture.png)
+![Dashboard](images/architecture/wazuh-dashboard.png)
 
+### 🚨 Brute Force Detection
 
+![Brute Force](images/architecture/bruteforce-alert.png)
 
-\### 📊 Wazuh Dashboard
+### ⚔️ Attack Simulation
 
-!\[Dashboard](architecture/screenshots/wazuh-dashboard.png)
+![Attack](images/attacks/nmap-scan.png)
 
+### 🪟 Sysmon Logs
 
-
-\### 🚨 Brute Force Detection
-
-!\[Brute Force](architecture/screenshots/bruteforce-alert.png)
-
-
-
-\### ⚔️ Attack Simulation
-
-!\[Attack](scripts/nmap-scan.png)
-
-
-
-\### 🪟 Sysmon Logs
-
-!\[Sysmon](logs/sysmon-process.png)
-
+![Sysmon](images/logs/sysmon-process.png)
 
 
 \---
