@@ -33,11 +33,11 @@ A brute-force attack was simulated using Hydra against a Windows 10 RDP service.
 ### 🚨 Response
 - Investigated affected endpoint
 - Validated no successful compromise (Event ID 4624 not correlated)
-- Recommended account lockout policies and monitoring
+- Recommended account lockout policies
 
 ### 🎯 Outcome
-- Successfully detected and analyzed simulated attack
-- Demonstrated SIEM monitoring, log correlation, and incident investigation skills
+- Successfully detected and analyzed the attack
+- Demonstrated SIEM monitoring and incident investigation skills
 
 \---
 
@@ -278,12 +278,8 @@ sudo systemctl restart wazuh-manager
 ![RDP Issue](images/logs/sysmon-process/sysmon-event-id-3---rdp-logon-issue-initiated--field-allways-false.png)
 ![Workstation](images/logs/sysmon-process/workstation-logs.png)
 
----
-
-# 🚀 Author
 \---
 
-# 🚀 Author
-
+## 🚀 Author
 Sandeep Mothukuri
 
