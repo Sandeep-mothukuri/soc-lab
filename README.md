@@ -197,9 +197,9 @@ hydra -l admin -P rockyou.txt rdp://<target-ip>
 
 \---
 
-## View Alerts
+# View Alerts
 
-# ⏱️ Incident Timeline
+## ⏱️ Incident Timeline
 
 1. Nmap scan detected (T1046)
 2. Brute-force attack initiated via Hydra
