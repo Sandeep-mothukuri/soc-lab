@@ -1,10 +1,10 @@
 # 🔐 SOC Analyst Home Lab
 
-[![Lab Validation](https://github.com/sandeepmothukuri/soc-lab/actions/workflows/validate.yml/badge.svg)](https://github.com/sandeepmothukuri/soc-lab/actions)
+[![Lab Validation](https://github.com/sandeepmothukuri/SOC-Detection-and-Threat-Hunting-Lab/actions/workflows/validate.yml/badge.svg)](https://github.com/sandeepmothukuri/SOC-Detection-and-Threat-Hunting-Lab/actions)
 [![Wazuh](https://img.shields.io/badge/SIEM-Wazuh-0066CC?logo=wazuh&logoColor=white)](https://wazuh.com/)
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)](https://attack.mitre.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/sandeepmothukuri/soc-lab?style=social)](https://github.com/sandeepmothukuri/soc-lab)
+[![Stars](https://img.shields.io/github/stars/sandeepmothukuri/SOC-Detection-and-Threat-Hunting-Lab?style=social)](https://github.com/sandeepmothukuri/SOC-Detection-and-Threat-Hunting-Lab)
 
 > **Hands-on SOC analyst lab** — brute-force attack simulation, endpoint detection with Wazuh SIEM + Sysmon, and MITRE ATT&CK mapping. Built from scratch to demonstrate real L1/L2 SOC detection workflows.
 
@@ -226,12 +226,12 @@ sudo systemctl restart wazuh-manager
 
 | Repository | Description |
 |---|---|
-| [ai-soc-lab](https://github.com/sandeepmothukuri/ai-soc-lab) | AI-augmented SOC with Wazuh + TheHive + Ollama (LLaMA3) for automated triage |
-| [advanced-soc-lab-v2.0](https://github.com/sandeepmothukuri/advanced-soc-lab-v2.0) | 12-tool SOC lab with OpenSearch, Suricata, Zeek, MISP, Caldera, Velociraptor |
+| [ai-SOC-Detection-and-Threat-Hunting-Lab](https://github.com/sandeepmothukuri/ai-SOC-Detection-and-Threat-Hunting-Lab) | AI-augmented SOC with Wazuh + TheHive + Ollama (LLaMA3) for automated triage |
+| [advanced-SOC-Detection-and-Threat-Hunting-Lab-v2.0](https://github.com/sandeepmothukuri/advanced-SOC-Detection-and-Threat-Hunting-Lab-v2.0) | 12-tool SOC lab with OpenSearch, Suricata, Zeek, MISP, Caldera, Velociraptor |
 | [Autonomous-SOC-Lab](https://github.com/sandeepmothukuri/Autonomous-SOC-Lab) | Autonomous SOC with AI-driven detection and self-healing playbooks |
 | [soc-threat-hunting-lab](https://github.com/sandeepmothukuri/soc-threat-hunting-lab) | Threat detection lab — Zeek, RITA, Arkime, Velociraptor, OSQuery, MISP |
-| [soc-lab-free](https://github.com/sandeepmothukuri/soc-lab-free) | Free SOC lab — OpenVAS, Wazuh, pfSense, Proxmox Mail, Lynis |
-| [soc-lab](https://github.com/sandeepmothukuri/soc-lab) | SOC analyst home lab — Wazuh SIEM, Sysmon, MITRE ATT&CK mapping |
+| [SOC-Detection-and-Threat-Hunting-Lab-free](https://github.com/sandeepmothukuri/SOC-Detection-and-Threat-Hunting-Lab-free) | Free SOC lab — OpenVAS, Wazuh, pfSense, Proxmox Mail, Lynis |
+| [SOC-Detection-and-Threat-Hunting-Lab](https://github.com/sandeepmothukuri/SOC-Detection-and-Threat-Hunting-Lab) | SOC analyst home lab — Wazuh SIEM, Sysmon, MITRE ATT&CK mapping |
 | [cyberblue](https://github.com/sandeepmothukuri/cyberblue) | Containerised blue team platform — SIEM, DFIR, CTI, SOAR, Network Analysis |
 
 
